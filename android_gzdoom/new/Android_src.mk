@@ -23,7 +23,31 @@ $(TOP_DIR)/../../Serial/jni \
  $(GZDOOM_TOP_PATH)/gdtoa \
  $(GZDOOM_TOP_PATH)/lzma/C \
  $(GZDOOM_TOP_PATH)/bzip2 \
- $(GZDOOM_TOP_PATH)/src/ \
+ $(GZDOOM_TOP_PATH)/src/sound \
+ $(GZDOOM_TOP_PATH)/src/textures \
+ $(GZDOOM_TOP_PATH)/src/thingdef \
+ $(GZDOOM_TOP_PATH)/src/sdl \
+ $(GZDOOM_TOP_PATH)/src/g_doom \
+ $(GZDOOM_TOP_PATH)/src/g_heretic \
+ $(GZDOOM_TOP_PATH)/src/g_hexen \
+ $(GZDOOM_TOP_PATH)/src/g_raven \
+ $(GZDOOM_TOP_PATH)/src/g_strife \
+ $(GZDOOM_TOP_PATH)/src/g_shared \
+ $(GZDOOM_TOP_PATH)/src/common \
+ $(GZDOOM_TOP_PATH)/src/console \
+ $(GZDOOM_TOP_PATH)/src/gamedata \
+ $(GZDOOM_TOP_PATH)/src/g_statusbar \
+ $(GZDOOM_TOP_PATH)/src/intermission \
+ $(GZDOOM_TOP_PATH)/src/maploader \
+ $(GZDOOM_TOP_PATH)/src/menu \
+ $(GZDOOM_TOP_PATH)/src/playsim \
+ $(GZDOOM_TOP_PATH)/src/posix \
+ $(GZDOOM_TOP_PATH)/src/rendering \
+ $(GZDOOM_TOP_PATH)/src/r_data \
+ $(GZDOOM_TOP_PATH)/src/scripting \
+ $(GZDOOM_TOP_PATH)/src/sound \
+ $(GZDOOM_TOP_PATH)/src/utility \
+ $(GZDOOM_TOP_PATH)/src/win32 \
 $(TOP_DIR)/openal-soft-android/include \
 $(TOP_DIR)/FMOD_studio/api/lowlevel/inc \
 $(TOP_DIR)/jpeg8d/include \
